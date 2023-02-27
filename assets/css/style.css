@@ -479,6 +479,8 @@ a:hover {
 
 #header .logo img {
   max-height: 40px;
+  padding: 3px;
+
 }
 
 #header.header-scrolled {
@@ -758,7 +760,7 @@ a:hover {
 }
 
 .hero .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.4);
   position: absolute;
   top: 0;
   left: 0px;
