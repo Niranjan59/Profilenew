@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+=A README is a text file that introduces and explains a project. 
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+It contains information that is commonly required to understand what the project is about.
